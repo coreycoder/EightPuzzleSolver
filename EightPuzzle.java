@@ -7,6 +7,8 @@ import java.util.StringTokenizer;
 
 public class EightPuzzle {
 
+	//This is a comment for the git testing.
+	
 	public static void main(String[] args) {
 
 		Scanner kb = new Scanner(System.in);
